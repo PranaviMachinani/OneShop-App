@@ -1,4 +1,4 @@
-Instructions about running the application:
+**Instructions about running the application:**
 
 Step1: if you’re a new user register by entering details and signup, if returning customer then sign in with credentials. Home page is displayed where you can find search button and “Find” button.
 
